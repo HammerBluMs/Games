@@ -1,0 +1,66 @@
+<div id="inicioimg"></div>
+<div id="GEARS1"></div>
+<div id="GEARS2"></div>
+<div id="GEARS3"></div>
+<div id="GEARS4"></div>
+<div id="GEARS5"></div>
+<div id="GEARS6"></div>
+
+#inicioimg{
+	position: absolute;
+    width: 1019px;
+    height: 616px;
+    left: 1px;
+    top: 0px;
+}
+#GEARS1{
+	position: absolute;
+    width: 1019px;
+    height: 472px;
+    left: 1px;
+    top: 864px;
+}
+#GEARS2{
+	position: absolute;
+    width: 1019px;
+    height: 495px;
+    left: 1px;
+    top: 1336px;
+}
+}
+#GEARS3{
+	position: absolute;
+    width: 1020px;
+    height: 472px;
+    left: 0px;
+    top: 1831px;
+}
+#GEARS4{
+	position: absolute;
+    width: 1019px;
+    height: 472px;
+    left: 1px;
+    top: 2315px;
+}
+#GEARS2{
+	position: absolute;
+    width: 1019px;
+    height: 495px;
+    left: 1px;
+    top: 1336px;
+}
+}
+#GEARS5{
+	position: absolute;
+    width: 1020px;
+    height: 472px;
+    left: 0px;
+    top: 2799px;
+}
+#GEARS6{
+	position: absolute;
+    width: 1019px;
+    height: 469px;
+    left: 1px;
+    top: 3284px;
+}
